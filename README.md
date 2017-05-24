@@ -1,9 +1,9 @@
 
-## Tensorflow Playground ##
+## Tensorflow Playground
 
 ----------
 
-###Summary
+### Summary
 
 I started this project as a simple sandbox to experiment and apply Machine Learning concepts with bare-metal TensorFlow. 
 Over time, I plan to implement more examples and techniques to explore various topics in ML.
@@ -12,7 +12,7 @@ Please feel free to use, study, modify them and point out any improvement/error 
 
 ----------
 
-###Results
+### Results ###
 
 
 Currently the following examples are implemented:
@@ -30,7 +30,7 @@ Currently the following examples are implemented:
 
 ----------
 
-###Usage
+### Usage ###
 First of all, the proper datasets data shall be downloaded from the appropriate source, and the files location shall be configured into each executable file.
 As an example, using MNIST will require downloading it in the **mnist** folder and configuring by
 
@@ -55,7 +55,7 @@ All results were tested under Arch Linux
 
 ----------
 
-###Hyperparameters
+### Hyperparameters ###
 
 If you want to tweak the dataset split, networks structure and hyperparameters, you can find them at the beginning of each executable in each section marked with a comment ending like  `==> USER`
 The code should be already self-explanatory.
@@ -63,7 +63,7 @@ The code should be already self-explanatory.
 ----------
 
 
-###License
+### License ###
 
 See the LICENSE file for license rights and limitations (MIT).
 
